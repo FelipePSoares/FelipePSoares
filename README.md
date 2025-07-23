@@ -16,7 +16,7 @@
 
 
 ## Tecnologies and Languages 💻
-[![My Skills](https://skillicons.dev/icons?i=cs,angular,docker,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,js,angular,docker)](https://skillicons.dev)
 
 ### 🚀 Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=dotnet,mongodb,rabbitmq,kafka,jenkins)](https://skillicons.dev)
