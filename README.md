@@ -52,6 +52,6 @@
 
 <div align="center">
   
-  [![Felipe Soares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipePSoares&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Felipe Soares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipePSoares&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/FelipePSoares)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
