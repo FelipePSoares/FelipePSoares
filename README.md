@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  Let's connect? connect with my on LinkedIn or check my content on youtube!
+  Let's connect? connect with me on LinkedIn or check my content on youtube!
 </p>
 
 <p align="left">
