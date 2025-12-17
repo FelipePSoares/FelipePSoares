@@ -7,7 +7,6 @@
 - 🖥️ Over 10 years of experience in software development.
 - 🎓 Graduated in systems analysis and development.
 - 🔭 I’m currently working on [EconoFlow](https://github.com/FelipePSoares/EconoFlow) for help people to take care of their money.
-- 🌱 I’m currently creating content in a [newsletter](https://www.linkedin.com/newsletters/7298312698847531012/) and [youtube channel](https://www.youtube.com/@FelipePiresSoares) to help people to learn how to organize their finance.
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/FelipePSoares">
@@ -36,14 +35,12 @@
 </p>
 
 <p align="left">
-  Let's connect? connect with me on LinkedIn or check my content on youtube!
+  Let's connect? connect with me on LinkedIn!
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipepsoares/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@FelipePiresSoares" title="Youtube">
-  <img src="https://img.shields.io/badge/-Youtube-DF0174?style=flat-square&labelColor=DF0174&logo=youtube&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Ffelipepsoares%2F" alt="LinkedIn"/></a>
 </p>
 
 <div align="center">
